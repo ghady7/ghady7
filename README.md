@@ -298,53 +298,7 @@ const ghady = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔭 Currently Working On
-AI-powered web applications  
-as **IT & Software Developer**
-
-</td>
-<td align="center" width="50%">
-
-### 🌱 Currently Learning
-Advanced **Machine Learning**  
-**Networking & Data Processing**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💬 Ask Me About
-Angular • Laravel  
-Java • Python • AI/ML
-
-</td>
-<td align="center" width="50%">
-
-### ⚡ Fun Fact
-I debug with console.log()  
-and I'm proud of it! 😄
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<!-- Connect Section -->
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Let's Connect & Collaborate
 
 <div align="center">
