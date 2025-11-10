@@ -1,45 +1,65 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ghady%20Tayeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
+<!-- Header Banner with Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghady%20Tayeh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Seeker&descAlignY=55&descAlign=50&descSize=18"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=60&lines=Full-Stack+Developer+%7C+AI+Explorer;Building+Modern+Web+Applications;Transforming+Ideas+into+Reality" alt="Typing SVG" /></a>
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=80&lines=Full-Stack+Developer+%7C+AI+Integration+Specialist;Building+Intelligent+Web+Solutions;Transforming+Ideas+into+Digital+Reality;Currently+%40+Le+Royal+Beirut" alt="Typing SVG" />
+</a>
 
-<!-- Social Badges -->
+<!-- Social Badges with Custom Styling -->
 <p align="center">
   <a href="https://ghady7.github.io/dashboard/index.html">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Explore-blueviolet?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-blueviolet?style=for-the-badge&logoColor=white&labelColor=5B21B6" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ghady-tayeh-a0711a339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/ghady_tayeh/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/ghady7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghady7&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ghady7?label=Followers&style=for-the-badge&color=7c3aed" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/ghady7?label=Followers&style=for-the-badge&color=7c3aed&labelColor=5B21B6" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web-brightgreen?style=for-the-badge" alt="focus"/>
 </p>
 
 </div>
 
 <br/>
 
-<!-- About Section -->
+<!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const ghady = {
     location: "Beirut, Lebanon 🇱🇧",
     role: "Software Web Developer",
     company: "Le Royal Beirut",
-    currentFocus: ["AI Integration", "Web Development", "Problem Solving"],
-    learning: ["Machine Learning", "AI Solutions"],
-    funFact: "Turning coffee into code ☕"
+    education: [
+        "AI & Machine Learning",
+        "Modern Web Development"
+    ],
+    interests: [
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "System Architecture",
+        "Problem Solving"
+    ],
+    currentlyLearning: [
+        "Advanced AI/ML",
+        "Cloud Technologies"
+    ],
+    funFact: "Turning ☕ into code!"
 };
 ```
 
@@ -47,22 +67,83 @@ const ghady = {
 
 <br/>
 
-<!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technology Stack
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technology Arsenal
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,angular&theme=dark" />
+### 🎨 Frontend Development
 
-### Backend
-<img src="https://skillicons.dev/icons?i=laravel,java,python,php&theme=dark" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br>Angular
+</td>
+</tr>
+</table>
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+### ⚙️ Backend Development
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+</tr>
+</table>
+
+### 💾 Database & Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -70,101 +151,116 @@ const ghady = {
 
 <br/>
 
-<!-- Projects Section -->
+<!-- Featured Projects -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" style="padding: 20px; border-radius: 15px;">
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px;">
+### 📦 Order Management System
+[![](https://img.shields.io/badge/-View_Project-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Order_Manager)
 
-### 📦 Order Manager
-**Full-stack order management system**
+<div align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
-- Real-time order tracking
-- Analytics dashboard
-- Secure authentication
-- Responsive design
+**Enterprise-grade order processing platform**
 
-`Angular` `Laravel` `MySQL`
+- 🚀 Real-time order tracking & management
+- 📊 Advanced analytics dashboard
+- 🔐 Secure authentication system
+- 📱 Responsive design for all devices
+
+<br>
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Order_Manager)
 
-</div>
-
 </td>
 
-<td width="50%" style="padding: 20px; border-radius: 15px;">
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px;">
+### 🏭 Inventory Control System
+[![](https://img.shields.io/badge/-View_Project-0284c7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Inventory_Manager)
 
-### 🏭 Inventory Manager
-**Smart inventory control system**
+<div align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
-- Real-time stock monitoring
-- Automated alerts
-- Analytics & reports
-- Multi-user support
+**Smart warehouse & inventory solution**
 
-`Angular` `PHP` `MySQL`
+- 📦 Real-time stock monitoring
+- 🔔 Automated alerts & notifications
+- 📈 Predictive analytics
+- 🔄 Multi-warehouse support
+
+<br>
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Inventory_Manager)
-
-</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" style="padding: 20px; border-radius: 15px;">
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px;">
+### 📚 Digital Library Platform
+[![](https://img.shields.io/badge/-View_Project-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Library_System)
 
-### 📚 Library System
-**Digital library management**
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
-- Advanced search
-- User management
-- Booking system
-- Usage statistics
+**Modern library management solution**
 
-`Java` `MySQL`
+- 📖 Advanced search & filtering
+- 👥 User role management
+- 📅 Booking & reservation system
+- 📊 Usage statistics & reports
+
+<br>
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghady7/Library_System)
 
-</div>
-
 </td>
 
-<td width="50%" style="padding: 20px; border-radius: 15px;">
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 20px;">
+### 🎯 Interactive Portfolio
+[![](https://img.shields.io/badge/-View_Live-ea580c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghady7.github.io/dashboard/index.html)
 
-### 🎨 Portfolio & CV
-**Interactive personal dashboard**
-
-- Modern UI/UX
-- Fully responsive
-- Skills visualization
-- Downloadable CV
-
-`HTML5` `CSS3` `JavaScript`
-
-[![View Live](https://img.shields.io/badge/View_Live-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghady7.github.io/dashboard/index.html)
-
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
+
+**Personal dashboard & CV showcase**
+
+- 🎨 Modern UI/UX design
+- 📱 Fully responsive layout
+- 🌙 Theme customization
+- 📄 Downloadable CV
+
+<br>
+
+[![View Live](https://img.shields.io/badge/View_Live-ea580c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghady7.github.io/dashboard/index.html)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
 <a href="https://github.com/ghady7?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+  <img src="https://img.shields.io/badge/🚀_View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
 </a>
 
 </div>
@@ -173,25 +269,31 @@ const ghady = {
 
 <br/>
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
+<!-- GitHub Statistics -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghady7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=15" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghady7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=15" alt="Top Languages"/>
+<a href="https://github.com/ghady7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghady7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=15" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghady7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=15" alt="Top Languages"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=ghady7&theme=midnight-purple&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=a78bfa&dates=8b5cf6&sideLabels=a78bfa&border_radius=15" alt="GitHub Streak" width="95%"/>
+<a href="https://github.com/ghady7">
+  <img src="https://streak-stats.demolab.com?user=ghady7&theme=midnight-purple&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=a78bfa&dates=8b5cf6&sideLabels=a78bfa&border_radius=15" alt="GitHub Streak" width="95%"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghady7&bg_color=0d1117&color=a78bfa&line=7c3aed&point=8b5cf6&area=true&hide_border=true&radius=15" alt="Contribution Graph" width="95%"/>
+<a href="https://github.com/ghady7">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghady7&bg_color=0d1117&color=a78bfa&line=7c3aed&point=8b5cf6&area=true&hide_border=true&radius=15&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghady7&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghady7&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" width="95%"/>
 
 </div>
 
@@ -200,80 +302,124 @@ const ghady = {
 <br/>
 
 <!-- Current Focus -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> What I'm Up To
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Current Focus & Journey
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Ghady))
-    Web Development
+  root((🎯 Ghady<br/>Tayeh))
+    🤖 AI & Machine Learning
+      Deep Learning
+      AI Integration
+      Smart Solutions
+    💻 Web Development
       Angular Apps
       Laravel APIs
-      Responsive Design
-    AI & ML
-      Machine Learning
-      AI Integration
-      Problem Solving
-    Professional
+      Modern Design
+      REST Services
+    🚀 Professional Growth
       Le Royal Beirut
-      Learning & Growth
+      Open Source
+      Continuous Learning
+      Innovation
 ```
 
 </div>
 
-<br/>
+<br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-**🔭 Currently working on:** AI-powered web applications at Le Royal Beirut  
-**🌱 Currently learning:** Machine Learning & AI Solutions  
-**💬 Ask me about:** Angular, Laravel, Java, Python  
-**⚡ Fun fact:** I debug with console.log() and I'm proud of it! 😄
+### 🔭 Currently Working On
+AI-powered web applications  
+at **Le Royal Beirut**
 
-</div>
+</td>
+<td align="center" width="50%">
+
+### 🌱 Currently Learning
+Advanced **Machine Learning**  
+& **AI Solutions**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💬 Ask Me About
+Angular • Laravel  
+Java • Python
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Fun Fact
+I debug with console.log()  
+and I'm proud of it! 😄
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-<!-- Connect -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Let's Connect
+<!-- Connect Section -->
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Let's Connect & Collaborate
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logoColor=white" alt="Open"/>
-  <img src="https://img.shields.io/badge/Available%20for-Collaboration-blue?style=for-the-badge&logoColor=white" alt="Available"/>
-</p>
+<img src="https://img.shields.io/badge/🚀_Open%20to-Opportunities-brightgreen?style=for-the-badge&logoColor=white" alt="Open"/>
+<img src="https://img.shields.io/badge/💼_Available%20for-Collaboration-blue?style=for-the-badge&logoColor=white" alt="Available"/>
+<img src="https://img.shields.io/badge/🎯_Status-Building%20%26%20Learning-orange?style=for-the-badge&logoColor=white" alt="Status"/>
+
+<br><br>
+
+### 💼 Professional Network
 
 <a href="https://www.linkedin.com/in/ghady-tayeh-a0711a339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://ghady7.github.io/dashboard/index.html">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+
+<br>
+
+### 🌐 Social Media
+
 <a href="https://www.instagram.com/ghady_tayeh/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href="https://github.com/ghady7">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-### 💡 "Building the future, one commit at a time"
+### 💡 *"Building the future, one commit at a time"*
 
-<br/>
+<br>
 
-### 📬 Let's build something amazing together!
+**📬 Interested in collaborating? Let's build something amazing together!**
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Footer -->
+<br/>
+
+<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
 
-### ⭐️ From [ghady7](https://github.com/ghady7) | Built with 💜 and ☕
+### ⭐️ From [ghady7](https://github.com/ghady7) | Built with 💜 and lots of ☕
+
+**Thanks for visiting! Don't forget to leave a ⭐ on my projects if you like them!**
 
 </div>
