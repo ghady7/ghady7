@@ -298,7 +298,8 @@ const ghady = {
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br></br>
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Let's Connect & Collaborate
 
 <div align="center">
@@ -348,8 +349,7 @@ const ghady = {
 
 <div align="center">
 
-### ⭐️ From [ghady7](https://github.com/ghady7) | Built with 💜 and lots of ☕
 
-**Thanks for visiting! Don't forget to leave a ⭐ on my projects if you like them!**
+**Thanks for visiting! 
 
 </div>
