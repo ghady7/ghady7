@@ -38,7 +38,7 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="380" style="margin-top:30 px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="380" style="padding-top:60 px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
 👋 **Hi, I'm Ghady** — a Software and Web Developer passionate about building **efficient, scalable, and user-focused digital solutions**. Over the past few years, I've developed a strong foundation in web development, IT systems, and networking, combining technical precision with a problem-solving mindset.
