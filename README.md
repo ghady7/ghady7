@@ -280,12 +280,7 @@ const ghady = {
 
 <div align="center">
 
-<a href="https://github.com/ghady7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghady7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=15" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghady7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=15" alt="Top Languages"/>
-</a>
 
-<br><br>
 
 <a href="https://github.com/ghady7">
   <img src="https://streak-stats.demolab.com?user=ghady7&theme=midnight-purple&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=a78bfa&dates=8b5cf6&sideLabels=a78bfa&border_radius=15" alt="GitHub Streak" width="95%"/>
