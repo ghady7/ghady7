@@ -1,17 +1,12 @@
 <div align="center">
-
 <!-- Ultra Modern Gradient Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=GHADY%20TAYEH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20%7C%20AI%20Explorer%20%7C%20Code%20Artist&descAlignY=55&descAlign=50&descSize=20"/>
-
 <br/>
-
 <!-- Futuristic Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=💻+Software+%26+Web+Developer;🤖+AI+Integration+Specialist;⚡+Building+Scalable+Digital+Solutions;🚀+Currently%3A+IT+%26+Software+Developer" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <!-- Modern Glass-morphic Badge Design -->
 <p>
   <a href="https://ghady7.github.io/dashboard/index.html">
@@ -27,47 +22,48 @@
     <img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 <!-- Sleek Minimal Stats -->
-![](https://komarev.com/ghpvc/?username=ghady7&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/ghady7?style=for-the-badge&color=6366F1&label=FOLLOWERS)
-![](https://img.shields.io/badge/FOCUS-AI+%2B+WEB-10B981?style=for-the-badge)
-
+Show Image
+Show Image
+Show Image
 </div>
-
 <br/>
-
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> WHO AM I
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  vision: string;
+  superpowers: string[];
+}
+const ghady: Developer = {
+name: "Ghady Tayeh",
+location: "🇱🇧 Beirut, Lebanon",
+role: "IT & Software Developer",
+vision: "AI Integration × Web Development",
+superpowers: [
+"🎯 Building scalable digital solutions",
+"⚡ Transforming complex ideas into reality",
+"🧠 Integrating AI with modern web tech",
+"🔧 Problem-solving with precision"
+]
+};
+// Currently leveling up in:
+const learning = [
+"Advanced Web Development",
+"Networking & Data Processing",
+"AI & Machine Learning"
+];
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **WHO AM I**
+<br clear="right"/>
 
-<div align="center">
-
-**Software and Web Developer** based in **Beirut, Lebanon 🇱🇧**
-
-Currently working as **IT & Software Developer**, specializing in building efficient, scalable digital solutions.
-
-</div>
-
-### 🎯 What I Do
-
-- 💻 Full-stack web development with modern technologies
-- 🔧 IT systems implementation and maintenance
-- 🚀 Building user-focused applications that solve real problems
-- 🧠 Exploring AI integration with web technologies
-
-### 📚 Currently Learning
-
-- Advanced Web Development & Software Engineering
-- Networking & Data Processing
-- Artificial Intelligence & Machine Learning
-
-### 🌟 Goal
-
-Integrating software development expertise with AI and data-driven technologies to build smarter, more adaptive applications.
+### 🎯 **MISSION**
+> *Building the bridge between traditional web development and intelligent AI-powered systems. Creating solutions that don't just work—they think.*
 
 <br/>
 
