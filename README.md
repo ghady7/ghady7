@@ -44,43 +44,30 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **WHO AM I**
 
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  vision: string;
-  superpowers: string[];
-}
+**Software and Web Developer** based in **Beirut, Lebanon 🇱🇧**
 
-const ghady: Developer = {
-  name: "Ghady Tayeh",
-  location: "🇱🇧 Beirut, Lebanon",
-  role: "IT & Software Developer",
-  vision: "AI Integration × Web Development",
-  
-  superpowers: [
-    "🎯 Building scalable digital solutions",
-    "⚡ Transforming complex ideas into reality",
-    "🧠 Integrating AI with modern web tech",
-    "🔧 Problem-solving with precision"
-  ]
-};
+Currently working as **IT & Software Developer**, specializing in building efficient, scalable digital solutions.
 
-// Currently leveling up in:
-const learning = [
-  "Advanced Web Development",
-  "Networking & Data Processing", 
-  "AI & Machine Learning"
-];
-```
+</div>
 
-<br clear="right"/>
+### 🎯 What I Do
 
-### 🎯 **MISSION**
-> *Building the bridge between traditional web development and intelligent AI-powered systems. Creating solutions that don't just work—they think.*
+- 💻 Full-stack web development with modern technologies
+- 🔧 IT systems implementation and maintenance
+- 🚀 Building user-focused applications that solve real problems
+- 🧠 Exploring AI integration with web technologies
+
+### 📚 Currently Learning
+
+- Advanced Web Development & Software Engineering
+- Networking & Data Processing
+- Artificial Intelligence & Machine Learning
+
+### 🌟 Goal
+
+Integrating software development expertise with AI and data-driven technologies to build smarter, more adaptive applications.
 
 <br/>
 
