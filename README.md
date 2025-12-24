@@ -89,10 +89,6 @@ Integrating software development expertise with AI and data-driven technologies 
 <br><strong>JavaScript</strong>
 </td>
 <td align="center" width="110" height="110">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="110" height="110">
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="CSS" width="65" height="65" />
 <br><strong>CSS3</strong>
 </td>
