@@ -5,13 +5,6 @@
 
 <br/>
 
-<!-- Futuristic Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=💻+Software+%26+Web+Developer;🤖+AI+Integration+Specialist;⚡+Building+Scalable+Digital+Solutions;🚀+Currently%3A+IT+%26+Software+Developer" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <!-- Modern Glass-morphic Badge Design -->
 <p>
   <a href="https://ghady7.github.io/dashboard/index.html">
